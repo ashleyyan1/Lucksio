@@ -1,0 +1,16 @@
+.root
+{
+    -fx-background-color: #1D9DC1;
+}
+.button:hover
+{
+    -fx-background-color: #006784;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: #00000;
+    -fx-border-style: dashed;
+}
+#background
+{
+    -fx-background-image: url("file:///Users/ashley182018/IdeaProjects/Dice/res/Reflection-of-shining-buildings-on-a-river-ss04102017.jpg");
+    -fx-background-position: center;
+}

@@ -1,0 +1,11 @@
+.root
+{
+    -fx-background-image: url("file:///Users/ashley182018/IdeaProjects/Dice/res/doge.jpg");
+}
+.button:hover
+{
+        -fx-background-color: #006784;
+        -fx-text-fill: #FFFFFF;
+        -fx-border-color: #00000;
+        -fx-border-style: dashed;
+}
